@@ -43,6 +43,9 @@ nav{
 #skills{
     background-color: rgb(135, 226, 226);
 }
+#resume{
+    background-color: rgb(106, 106, 161) ;
+}
 
 i{
     color: white !important;
